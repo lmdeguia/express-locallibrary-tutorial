@@ -1,0 +1,3 @@
+.env
+mongodInit.sh
+node_modules/
